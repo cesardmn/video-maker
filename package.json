@@ -19,6 +19,7 @@
   "homepage": "https://github.com/cesardmn/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^56.0.0",
     "image-downloader": "^4.0.1",
     "readline-sync": "^1.4.10",
