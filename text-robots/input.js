@@ -18,7 +18,7 @@ function robot() {
     const prefixes = ['Who is', 'What is', 'History of']
     const selectedPrefixIndex = readline.keyInSelect(prefixes, 'choose on option: ')
     const selectedPrefixText = prefixes[selectedPrefixIndex]
-    
+
     return selectedPrefixText
   }
 
